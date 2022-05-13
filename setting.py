@@ -14,7 +14,7 @@ SPIDER = {
 
 # 校验器配置
 VALIDATOR = {
-    'test_url': 'http://www.baidu.com',     # 可用校验url
+    'test_url': 'http://sso.zstu.edu.cn',     # 可用校验url
     'request_timeout': 4,           # 校验超时时间
     'validate_interval': 60         # 校验间隔(秒)
 }
